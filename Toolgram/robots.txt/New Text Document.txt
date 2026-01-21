@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://toolgram.com/sitemap.xml
+Disallow: /search/
+Allow: /tools/
